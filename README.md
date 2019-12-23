@@ -1,2 +1,2 @@
 # Iris
-![](current_layout.png)
+![](layout.png)
